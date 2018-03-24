@@ -4,7 +4,7 @@
 	<title>S.R. Andrade Jr Résumé</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8">
-	<link rel="stylesheet" type="text/css" href="./resume-stylesheet.css">
+	<link rel="stylesheet" type="text/css" href="resume-stylesheet.css">
 <style>
 * {
  box-sizing: border-box;
